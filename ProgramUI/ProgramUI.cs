@@ -85,7 +85,7 @@ namespace DevTeamConsoleApp
                         isRunning = false;
                         break;
                     default:
-                        Console.WriteLine("Please enter a valid number between 1 and 5");
+                        Console.WriteLine("Please enter a valid number between 1 and 10");
                         ReduceRed();
                         break;
 
